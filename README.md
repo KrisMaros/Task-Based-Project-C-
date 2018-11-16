@@ -22,25 +22,25 @@ Minimum Requirements
 
 • List all stores, suppliers and supplier types.
 
-• Allow the Finances team to find the following data:-
+• Allow the Finances team to find the following data:
 
-o The total cost of all orders available in the supplied data
+  o The total cost of all orders available in the supplied data
 
-o The total cost of all orders for a single store
+  o The total cost of all orders for a single store
 
-o The total cost of orders in a week for all stores
+  o The total cost of orders in a week for all stores
 
-o The total cost of orders in a week for a single store
+  o The total cost of orders in a week for a single store
 
-o The total cost of all orders to a supplier
+  o The total cost of all orders to a supplier
 
-o The cost of all orders from a supplier type
+  o The cost of all orders from a supplier type
 
-o The cost of orders in a week for a supplier type
+  o The cost of orders in a week for a supplier type
 
-o The cost of orders for a supplier type for a store
+  o The cost of orders for a supplier type for a store
 
-o The cost of orders in a week for a supplier type for a store
+  o The cost of orders in a week for a supplier type for a store
 
 Advanced Requirements
 
