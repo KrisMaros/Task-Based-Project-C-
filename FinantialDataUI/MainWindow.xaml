@@ -1,0 +1,52 @@
+﻿<Window x:Class="FinantialDataUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:da="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:dg="http://schemas.xceed.com/wpf/xaml/datagrid"
+        xmlns:local="clr-namespace:FinantialDataUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1082.377" Width="1015.335">
+    <Grid Margin="1,0,-1,0">
+
+        <TextBlock x:Name="txtView" Margin="630,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="1007" HorizontalAlignment="Left" Width="350" RenderTransformOrigin="0.346,0.495">
+        </TextBlock>
+
+
+        <Button x:Name="button" Content="Display option 1" HorizontalAlignment="Left" Margin="121,19,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfAllOrders" Height="23"/>
+        <Button x:Name="button1" Content="Display option 2" HorizontalAlignment="Left" Margin="121,80,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfAllOrdersForStore"/>
+        <Button x:Name="button2" Content="Display option 3" HorizontalAlignment="Left" Margin="121,141,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfOrderInWeek"/>
+        <Button x:Name="button3" Content="Display option 4" HorizontalAlignment="Left" Margin="121,203,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfOrderInWeekSingleStore"/>
+        <Button x:Name="button4" Content="Display option 5" HorizontalAlignment="Left" Margin="121,262,0,0" VerticalAlignment="Top" Width="99" RenderTransformOrigin="0.522,1.66" Click="totalCostOfAllOrdersToSupplier"/>
+        <Button x:Name="button5" Content="Display option 6" HorizontalAlignment="Left" Margin="121,320,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfAllOrdersToSupplierType"/>
+        <Button x:Name="button6" Content="Display option 7" HorizontalAlignment="Left" Margin="121,381,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfOrdersInWeekForSupplierType"/>
+        <Button x:Name="button7" Content="Display option 8" HorizontalAlignment="Left" Margin="121,442,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfOrderForSuplierTypeForStore"/>
+        <Button x:Name="button8" Content="Display option 9" HorizontalAlignment="Left" Margin="121,503,0,0" VerticalAlignment="Top" Width="99" Click="totalCostOfOrderInWeekForSupplierTypeForStore"/>
+        <Label x:Name="label" Content="1.The total cost of all orders available in the supplied data" HorizontalAlignment="Left" Margin="23,42,0,0" VerticalAlignment="Top" Width="319"/>
+        <Label x:Name="label1" Content="2.The total cost of all orders for a single store" HorizontalAlignment="Left" Margin="23,105,0,0" VerticalAlignment="Top" Width="319"/>
+        <Label x:Name="label2" Content="3.The total cost of orders in a week for all stores" HorizontalAlignment="Left" Margin="23,161,0,0" VerticalAlignment="Top" Width="319"/>
+        <Label x:Name="label3" Content="4.The total cost of orders in a week for a single store" HorizontalAlignment="Left" Margin="23,223,0,0" VerticalAlignment="Top" Width="319"/>
+        <Label x:Name="label4" Content="5.The total cost of all orders to a supplier" HorizontalAlignment="Left" Margin="23,282,0,0" VerticalAlignment="Top" Width="319"/>
+        <Label x:Name="label5" Content="6.The cost of all orders from a supplier type" HorizontalAlignment="Left" Margin="23,340,0,0" VerticalAlignment="Top" Width="319"/>
+        <Label x:Name="label6" Content="7.The cost of orders in a week for a supplier type" HorizontalAlignment="Left" Margin="23,401,0,0" VerticalAlignment="Top" Width="319"/>
+        <Label x:Name="label7" Content="8.The cost of orders for a supplier type for a store" HorizontalAlignment="Left" Margin="23,462,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.512,-0.182" Width="319"/>
+        <Label x:Name="label8" Content="9.The cost of orders in a week for a supplier type for a store" HorizontalAlignment="Left" Margin="23,523,0,0" VerticalAlignment="Top" Width="338"/>
+        <Label x:Name="label9" Content="Store code" HorizontalAlignment="Left" Margin="390,42,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="label10" Content="Week number" HorizontalAlignment="Left" Margin="390,100,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="label11" Content="Supplier name" HorizontalAlignment="Left" Margin="390,156,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="label12" Content="Supplier type" HorizontalAlignment="Left" Margin="390,215,0,0" VerticalAlignment="Top" Width="119"/>
+        <TextBox x:Name="storeB" HorizontalAlignment="Left" Height="23" Margin="389,19,0,0" TextWrapping="Wrap" Text="ABE1" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="weekB" HorizontalAlignment="Left" Height="23" Margin="389,77,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="sNameB" HorizontalAlignment="Left" Height="23" Margin="389,133,0,0" TextWrapping="Wrap" Text="Muller" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="sTypeB" HorizontalAlignment="Left" Height="23" Margin="389,192,0,0" TextWrapping="Wrap" Text="Groceries" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button9" Content="Browse for store files" HorizontalAlignment="Left" Margin="389,247,0,0" VerticalAlignment="Top" Width="127" Click="storeCodesFileLoader"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="46" Margin="347,272,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="207"/>
+        <Button x:Name="button10" Content="Browse for stores data" HorizontalAlignment="Left" Margin="390,325,0,0" VerticalAlignment="Top" Width="127" Click="fileDataLoader"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left" Height="49" Margin="347,350,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="207"/>
+        <Button x:Name="button11" Content="All stores view" HorizontalAlignment="Left" Margin="347,412,0,0" VerticalAlignment="Top" Width="207" Click="allStoresList"/>
+        <Button x:Name="button12" Content="Supplier types view" HorizontalAlignment="Left" Margin="347,447,0,0" VerticalAlignment="Top" Width="207" Click="allSuppliersTypesList"/>
+        <Button x:Name="button13" Content="All suppliers view" HorizontalAlignment="Left" Margin="347,488,0,0" VerticalAlignment="Top" Width="207" Click="allSuppliersNamesList"/>
+
+    </Grid>
+</Window>

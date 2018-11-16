@@ -1,0 +1,60 @@
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\FinantialDataUI.exe.config
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\FinantialDataUI.exe
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\FinantialDataUI.pdb
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI.csprojResolveAssemblyReference.cache
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\MainWindow.g.cs
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\App.g.cs
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI_MarkupCompile.cache
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI_MarkupCompile.lref
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\MainWindow.baml
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI.g.resources
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI.Properties.Resources.resources
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI.csproj.GenerateResource.Cache
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI.exe
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\obj\Debug\FinantialDataUI.pdb
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Documents\Visual Studio 2015\Projects\FinantialDataUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\FinantialDataUI.exe.config
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI.exe
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI.pdb
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\FinantialDataUI.exe
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\FinantialDataUI.pdb
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI.csprojResolveAssemblyReference.cache
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\MainWindow.g.cs
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\App.g.cs
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI_MarkupCompile.cache
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI_MarkupCompile.lref
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\MainWindow.baml
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI.g.resources
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI.Properties.Resources.resources
+C:\Users\Krzychu-x\Desktop\FinantialDataUI\obj\Debug\FinantialDataUI.csproj.GenerateResource.Cache
