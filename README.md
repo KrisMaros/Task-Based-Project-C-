@@ -15,18 +15,31 @@ The finance team already have a method of receiving the files from the stores, t
 Minimum Requirements
 
 • An easy to use command line interface.
+
 • All features should be calculated when the option is selected, not at initial load. This will allow the data sets to be updated and the calculations rerun without reopening the application. Spur's technical team would like the UI to continue being responsive during these calculations.
+
 • Have the flexibility to point the application to a certain folder on a PC to find the .csv files.
+
 • List all stores, suppliers and supplier types.
+
 • Allow the Finances team to find the following data:-
+
 o The total cost of all orders available in the supplied data
+
 o The total cost of all orders for a single store
+
 o The total cost of orders in a week for all stores
+
 o The total cost of orders in a week for a single store
+
 o The total cost of all orders to a supplier
+
 o The cost of all orders from a supplier type
+
 o The cost of orders in a week for a supplier type
+
 o The cost of orders for a supplier type for a store
+
 o The cost of orders in a week for a supplier type for a store
 
 Advanced Requirements
